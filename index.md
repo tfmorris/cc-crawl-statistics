@@ -1,6 +1,8 @@
 Statistics of Common Crawl Monthly Archives
 ===========================================
 
+Statistics of the [Common Crawl](https://commoncrawl.org) [Monthly Archives](https://commoncrawl.org/the-data/getting-started/).
+
 * [size of the crawls](plots/crawlsize) - number of pages, unique URLs, hosts, domains, top-level domains (public suffixes), cumulative growth of crawled data over time
 * [top-level domains](plots/tlds) - distribution and comparison
 * [crawler-related metrics](plots/crawlermetrics) - fetch status, etc.
