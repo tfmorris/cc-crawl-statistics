@@ -1,10 +1,12 @@
 title: Statistics of Common Crawl Monthly Archives
-description: Number of pages, distribution of top-level domains, crawl overlaps, etc. - basic metrics about [Common Crawl](https://commoncrawl.org/) Monthly Crawl [Archives](https://commoncrawl.org/the-data/get-started/)
+description: Number of pages, distribution of top-level domains, crawl overlaps, etc. - basic metrics about Common Crawl Monthly Crawl Archives
 
 show_navigation: True
 navlist:
- - title: Home
+ - title: Statistics Home
    url: 
+ - title: CommonCrawl Home
+   url: https://commoncrawl.org/
  - title: Size of crawls
    url: /plots/crawlsize
  - title: Top-level domains
@@ -19,5 +21,7 @@ navlist:
    url: /plots/charsets
  - title: Languages
    url: /plots/languages
-
+ - title: Getting Started
+   url: https://commoncrawl.org/the-data/get-started/
+   
 theme: jekyll-theme-minimal
